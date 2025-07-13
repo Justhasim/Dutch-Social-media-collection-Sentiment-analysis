@@ -3,6 +3,13 @@ Sentiment analysis on a large Dutch tweet dataset using TextBlob, with geolocati
 
 ---
 
+### 📘 Notebook Preview
+
+Explore the full notebook here:
+👉 **[Main.ipynb – View on NBViewer](https://nbviewer.org/github/Justhasim/Dutch-Social-media-collection-Sentiment-analysis/blob/main/Main.ipynb)**
+
+---
+
 ## 📂 Dataset
 
 Due to file size limitations, the dataset is not included in this repository.
